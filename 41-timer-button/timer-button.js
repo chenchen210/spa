@@ -7,7 +7,8 @@ $(function(){
   $container.html(DOM);
   //var $timerbtn =$('<input typr="button" value="同意(6s)" disabled>');
   //$timerbtn.appendTo($container);
-  
+
+
  // $container.append($timerbtn);
   
   var $btnAgree = $('input[type="button"]');
