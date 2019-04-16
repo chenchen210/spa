@@ -12,7 +12,6 @@ $(function() {
     r=c(2 * t + 2 * a, 2),
     n=c(t * a, 2);
     $("#rectangle-perimeter").val(r),
-    $("#rectangle-area").val(n)
-
+    $("#rectangle-area").val(n);
   })
 });
